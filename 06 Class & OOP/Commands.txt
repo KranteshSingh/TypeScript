@@ -1,0 +1,5 @@
+tsc --init
+
+tsc 01Class.ts
+
+tsc 01Class.ts --strictPropertyInitialization false
